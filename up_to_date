@@ -1,2 +1,3 @@
-"git fetch"
+#!bin/bash
+
 "git pull"
